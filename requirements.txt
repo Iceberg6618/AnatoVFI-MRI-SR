@@ -1,0 +1,10 @@
+matplotlib
+nibabel
+numpy
+pandas
+scikit-image
+scipy
+simpleitk
+timm
+torch
+tqdm

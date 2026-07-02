@@ -1,0 +1,10 @@
+CONFIGS = {'in_chans':3,
+           'mlp_ratios':[4, 4],
+           'embed_dims':[32, 64, 128, 256, 512],
+           'motion_dims':[0, 0, 0, 64, 128],
+           'depths':[2, 2, 2, 4, 4],
+           'num_heads':[8, 16],
+           'window_sizes':[7, 7],
+           'scales':[4, 8, 16],
+           'hidden_dims':[128, 128],
+           'c':32}
