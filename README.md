@@ -109,8 +109,6 @@ The draft fixes `lambda_1 = 1` and `lambda_2 = 1`, then discusses `lambda_3` as 
 .
 |-- README.md
 |-- requirements.txt
-|-- docs/
-|   `-- draft_250206.pdf
 |-- src/
 |   `-- ema_vfi/
 |       |-- inference.py
@@ -121,14 +119,6 @@ The draft fixes `lambda_1 = 1` and `lambda_2 = 1`, then discusses `lambda_3` as 
 |       |-- anatomy_scoring.py
 |       |-- utils.py
 |       `-- model/
-`-- legacy_results/
-    |-- 240627/
-    |-- 240819/
-    |-- 240902/
-    |-- 240906/
-    |-- 241011/
-    |-- 241115/
-    `-- 241122/
 ```
 
 ## Code Overview
