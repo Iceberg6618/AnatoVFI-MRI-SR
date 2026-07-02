@@ -7,9 +7,7 @@ This repository is preserved for reference. It is not an actively maintained pac
 ## Project Status
 
 - Status: archived / deprecated research prototype
-- Draft manuscript: `docs/draft_250206.pdf`
 - Main code: `src/ema_vfi/`
-- Intermediate result summaries: `legacy_results/`
 - Training code status: a complete standalone training pipeline was not present in the archived workspace. The public code focuses on EMA-VFI inference, preprocessing, and evaluation helpers.
 
 ## Research Background
